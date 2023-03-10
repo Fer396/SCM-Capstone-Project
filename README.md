@@ -1,5 +1,4 @@
 # SCM-Capstone-Project
-Supply Chain Management Capstone Project
 
 Abstract
 This capstone project aims to use machine learning techniques to predict global supply chain outcomes for essential HIV medicines using procurement transaction data. The research addresses the lack of accurate and timely information about the global supply chain, which can lead to disruptions and delays. The project objectives are to collect and clean the data, develop a predictive model, evaluate the model's performance, and identify patterns and trends in the data. The research questions are to determine the effectiveness of machine learning techniques in predicting outcomes and identify critical factors that influence the supply chain. The study found that machine learning techniques could effectively predict outcomes, and factors such as destination mean, destination sum, destination count, origin mean, origin sum, origin count, origin fragility index, and year significantly correlate with delays in the supply chain. The recommended next steps include further analysis, real-time monitoring, and expansion to other regions. 
